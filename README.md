@@ -7,3 +7,7 @@ Simple Image Classifier is a Simple AI web app. It allows you to train a model o
 * It allows to **train** the model using your webcam
 
 * The training runs locally, on your computer!
+
+<p align="center">
+  <img src=".preview.jph" alt="Running the demo" width="738">
+</p>
