@@ -9,5 +9,5 @@ Simple Image Classifier is a Simple AI web app. It allows you to train a model o
 * The training runs locally, on your computer!
 
 <p align="center">
-  <img src="preview.jph" alt="Running the demo" width="738">
+  <img src="preview.jpg" alt="Running the demo" width="738">
 </p>
