@@ -21,7 +21,7 @@ Simple Image Classifier is a Simple AI web app. It allows you to classify an ima
 * Live demo here: http://educ8s.com/ai/
 
 <p align="center">
-  <img src="preview.jpg" alt="Running the demo" width="738">
+  <img src="preview2.jpg" alt="Running the demo" width="738">
 </p>
 
 # Second App - Web Camera Model Training and Classification
@@ -35,6 +35,6 @@ supports training of the model with images the user provides using his/her webca
 * The training runs locally, on your computer!
 
 <p align="center">
-  <img src="preview2.jpg" alt="Running the demo" width="738">
+  <img src="preview.jpg" alt="Running the demo" width="738">
 </p>
 
