@@ -4,7 +4,7 @@ Simple Image Classifier is a Simple AI web app. It allows you to train a model o
 
 * It use Tensorflow.js libary
 
-* It allows to **train** the model using your webcam
+* It allows you to **train** the model using your webcam
 
 * The training runs locally, on your computer!
 
