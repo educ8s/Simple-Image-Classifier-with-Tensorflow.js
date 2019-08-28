@@ -20,7 +20,7 @@ Simple Image Classifier is a Simple AI web app. It allows you to classify an ima
 
 # Second App - Web Camera Model Training and Classification
 
-supports training of the model with images the user provides using his/her webcam.
+This Web APp supports training of the model with images the user provides using his/her webcam.
 
 * It uses Tensorflow.js libary
 
