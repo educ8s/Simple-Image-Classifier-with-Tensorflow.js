@@ -1,12 +1,14 @@
 # Simple-Image-Classifier-with-Tensorflow.js
 
-Simple Image Classifier is a Simple AI web app. It allows you to train a model online using your webcam.
+Simple Image Classifier is a Simple AI web app. It allows you to classify an image that you upload from your computer.
 
 * It use Tensorflow.js libary
 
-* It allows you to **train** the model using your webcam
+* It uses the **mobilenet** model for image classification
 
-* The training runs locally, on your computer!
+* The runs locally, on your computer!
+
+* Live demo here: http://educ8s.com/ai/
 
 <p align="center">
   <img src="preview.jpg" alt="Running the demo" width="738">
