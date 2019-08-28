@@ -1,0 +1,27 @@
+<head>
+  <script src="https://unpkg.com/@tensorflow/tfjs"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet@2.0.2"> </script>
+  <script src="https://unpkg.com/@tensorflow-models/knn-classifier"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Tensorflow.js Image Classifier</title>
+</head>
+<div class = template>
+  <h1 id="msg" class="title-label">Simple Image Classifier</h1>
+  <video autoplay playsinline muted id="webcam" width="224" height="224"></video>
+  <p></p>
+  <button id="class-a" class = "button">Add A</button>
+<button id="class-b"class = "button">Add B</button>
+<button id="class-c" class = "button">Add C</button>
+  <p></p>
+  <h3 id="result">
+    <span> </span>
+  </h3>
+</div>
+ 
+    <div  style="position: absolute; bottom: 5px; background-color: #161616">
+    	<p id ="debug"></p>
+    
+    </div>
+      <script src="index.js"></script>
+
+</div>
